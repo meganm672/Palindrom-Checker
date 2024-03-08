@@ -1,6 +1,6 @@
 # Palindrom-Checker
 
-This project was about creatinf a Palindrome Checher to see if a word was a palindrome or not. I removed all non-alphanumeric charecters (punctuations, spaces and symbols). 
+This project was about creating a Palindrome Checher to see if a word was a palindrome or not. I removed all non-alphanumeric charecters (punctuations, spaces and symbols). 
 
 ## Deployed Site On GitHub Pages!
 [Palindorme Checker](https://meganm672.github.io/palindrome-checker/)
